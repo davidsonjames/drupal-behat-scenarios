@@ -13,6 +13,7 @@ Scenarios
 =========
 
 ## Drupal
+ - Attach a file to a node through the node add form.
 
 ## Domain Access
- - Login as user with specific domain access settings
+ - Login as user with specific domain access settings.
